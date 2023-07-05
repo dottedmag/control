@@ -1,6 +1,6 @@
 # dnscontrol-control
 
-This utility checks that records specified in dnscontrol configuration file are actually resolvable properly.
+This utility checks that records specified in dnscontrol configuration file are properly resolvable.
 
 ## Usage
 
